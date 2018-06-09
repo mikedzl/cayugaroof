@@ -224,9 +224,12 @@
 .slider-content h1 {
   font-size: 32px;
   line-height: 43px;
+  color:white;
 }
 .slider-content p {
   padding-right: 0;
+  color:white;
+  font-weight:600;
 }
 .slider-content span {
   letter-spacing: 2px;
