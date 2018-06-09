@@ -8,6 +8,9 @@
 }
 .slider-height-3 .slider-content h1 {
 	font-size: 74px;
+	color:white;
+	font-weight:600;
+	text-shadow: 2px 2px #17080f
 }
 .single-slider.slider-height-3 {
 	min-height: 600px;
@@ -118,6 +121,16 @@
 .single-slider.slider-height {
   min-height: 550px;
 }
+.slider-content h1 {
+  color:white;
+  text-shadow: 2px 2px #17080f;
+}
+.slider-content p {
+  padding-right: 0;
+  color:white;
+  font-weight:600;
+  text-shadow: 2px 2px #17080f;
+}
 .single-features h2 {
   font-size: 25px;
   margin-bottom: 10px;
@@ -225,11 +238,13 @@
   font-size: 32px;
   line-height: 43px;
   color:white;
+  text-shadow: 2px 2px #17080f;
 }
 .slider-content p {
   padding-right: 0;
   color:white;
   font-weight:600;
+  text-shadow: 2px 2px #17080f;
 }
 .slider-content span {
   letter-spacing: 2px;
