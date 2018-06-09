@@ -207,6 +207,7 @@
 @media (max-width: 767px) {
 .header-top-area {
   padding: 0 10px;
+  display:none;
 }
 .header-right li {
 	margin-left: 10px;
